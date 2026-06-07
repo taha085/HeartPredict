@@ -1,4 +1,4 @@
-# 🫀 Heart Disease Prediction App
+# ❤ Heart Disease Prediction App
 
 A machine learning web application that predicts the risk of heart disease using advanced machine learning techniques and deployed as an interactive Streamlit app. This project demonstrates a complete end-to-end machine learning pipeline with emphasis on healthcare-critical metrics.
 
